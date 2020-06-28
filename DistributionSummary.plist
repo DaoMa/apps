@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllRingtone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0D1078DF9507ADCA353FA5F4D3453DFF2894C102</string>
+				<key>dateExpires</key>
+				<string>2020/7/3</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YG3UTD55ZL.com.longwei.allringtone</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YG3UTD55ZL</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>AllRingtone.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b4f2c33e-d174-4bbc-92ec-a35e36310e3a</string>
+				<key>name</key>
+				<string>allringtone_dev</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YG3UTD55ZL</string>
+				<key>name</key>
+				<string>Wang Qi</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
